@@ -1,6 +1,6 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1968,159,638
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,138,350,10
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1973,161,627
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,139,354,9
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,109,12,0
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,100,26,22
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,99,14,27
@@ -12,7 +12,7 @@ quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and te
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,43,2,6
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,41,7,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,35,6,7
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,23,17,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,23,18,0
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,21,6,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,16,1,4

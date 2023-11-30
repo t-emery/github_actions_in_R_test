@@ -1,19 +1,19 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2716,236,1057
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,200,560,23
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,181,6,6
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2723,236,1031
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,201,560,21
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,181,6,3
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,163,14,107
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,163,37,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,162,14,107
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,114,17,33
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,106,10,9
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,101,5,19
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,69,8,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,69,4,7
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,6
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,49,8,8
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,49,9,9
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,35,14,11
-include-code-files,https://github.com/quarto-ext/include-code-files,NA,33,5,9
+include-code-files,https://github.com/quarto-ext/include-code-files,NA,34,5,9
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,30,20,0
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,21,4,6
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,21,5,1
@@ -53,5 +53,5 @@ vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syn
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,0,0,0
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,0,1,0
-.github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
+.github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,1
 .github,https://github.com/quarto-journals/.github,NA,0,1,1

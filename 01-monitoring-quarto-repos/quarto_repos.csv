@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2744,239,944
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2745,240,932
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,202,563,23
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,188,6,3
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,191,6,3
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,167,15,108
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,167,38,29
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,17,34
@@ -26,7 +26,7 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,11,1,5
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,11,8,1
-quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,2,2
+quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,2,3
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,8,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,8,8,20

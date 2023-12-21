@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2776,243,873
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,205,570,24
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2778,243,879
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,206,572,24
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,201,8,3
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,173,15,112
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,173,15,113
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,169,38,30
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,117,17,34
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
@@ -29,14 +29,14 @@ jasa,https://github.com/quarto-journals/jasa,Quarto template for the American St
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,10,2,3
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,8,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,8,8,21
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,8,8,22
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,6,4,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,6,1,0
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,5,4,1
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 holder,https://github.com/quarto-ext/holder,NA,3,0,0
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,3,1,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
-gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,5
+gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,6
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,1,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0

@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2801,242,894
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,212,576,26
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2800,242,902
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,212,577,26
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,207,8,3
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,176,15,115
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,176,15,116
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,170,38,30
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,117,17,35
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
@@ -30,7 +30,7 @@ quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,10,2,3
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,8,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,8,8,22
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,6,4,1
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,6,4,2
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,6,1,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 holder,https://github.com/quarto-ext/holder,NA,3,0,0

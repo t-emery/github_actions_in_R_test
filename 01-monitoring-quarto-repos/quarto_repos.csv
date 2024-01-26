@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2896,250,956
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2899,250,944
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,222,9,5
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,216,600,23
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,193,15,122
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,193,15,123
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,176,40,29
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,119,17,27
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,120,17,25
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,111,11,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,109,5,21
@@ -16,8 +16,8 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,38,5,9
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,31,20,0
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,23,5,6
+typst-templates,https://github.com/quarto-ext/typst-templates,NA,22,2,4
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,22,5,1
-typst-templates,https://github.com/quarto-ext/typst-templates,NA,21,2,4
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,20,4,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,14,0,1
@@ -28,16 +28,17 @@ quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,11,2,3
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,11,1,5
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,0
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,9,1,1
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,9,8,23
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,8,8,23
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,7,4,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,6,1,0
+acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,4,2,0
 holder,https://github.com/quarto-ext/holder,NA,3,0,0
-acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,3,2,1
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
-gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,6
+gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,1,0
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,2,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,1,0,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
@@ -53,6 +54,5 @@ external-observablehq-parser,https://github.com/quarto-dev/external-observablehq
 vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syntax-highlight,Markdown syntax support for the Mermaid charting language,0,0,0
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,0,0,0
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,0,1,0
 .github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
 .github,https://github.com/quarto-journals/.github,NA,0,1,1

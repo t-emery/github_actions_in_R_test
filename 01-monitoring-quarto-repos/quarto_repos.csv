@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2938,253,974
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2938,253,975
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,225,9,5
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,218,602,23
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,198,14,130
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,218,603,24
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,199,14,131
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,178,40,29
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,120,17,25
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,113,11,13
@@ -22,13 +22,13 @@ jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of St
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,14,0,1
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,13,0,3
+plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,13,2,10
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,12,2,3
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1
-plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,12,2,10
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,11,1,5
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,0
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,1
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,10,8,23
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,9,1,1
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,9,8,23
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,7,4,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,6,1,0

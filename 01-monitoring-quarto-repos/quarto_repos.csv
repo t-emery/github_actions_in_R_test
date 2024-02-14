@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2959,254,1000
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,230,9,8
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,218,604,12
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,200,14,137
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,178,40,30
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2967,255,1004
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,230,9,7
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,218,606,12
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,201,15,137
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,178,40,29
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,120,17,25
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,113,11,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,110,5,21
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,82,10,8
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,111,5,22
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,83,10,8
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,70,4,7
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,57,10,9
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4

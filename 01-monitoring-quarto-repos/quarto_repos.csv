@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3046,258,1005
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3052,259,1005
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,233,9,5
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,222,619,13
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,209,16,138
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,178,41,29
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,120,17,29
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,222,620,12
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,211,16,138
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,178,41,30
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,122,17,29
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,113,11,13
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,112,5,22
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
@@ -20,7 +20,7 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,23,5,6
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,20,4,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,14,0,1
+quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,15,0,1
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,10
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,13,2,3
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,13,0,3

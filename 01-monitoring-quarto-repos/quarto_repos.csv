@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3127,260,1027
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3133,260,1029
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,252,8,5
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,224,637,18
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,224,636,17
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,219,17,145
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,179,41,30
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,127,17,28
@@ -25,8 +25,8 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,13,2,3
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,13,0,3
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,12,7,23
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,1
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,11,7,23
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,11,8,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,9,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2

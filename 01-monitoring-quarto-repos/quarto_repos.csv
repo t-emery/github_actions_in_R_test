@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3169,266,1049
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,263,8,4
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,226,650,8
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3171,266,1052
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,264,9,4
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,227,653,8
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,223,19,149
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,179,42,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,128,17,30

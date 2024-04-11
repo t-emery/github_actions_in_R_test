@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3229,271,1083
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3239,271,1080
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,274,9,4
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,234,20,152
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,231,666,7
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,237,19,155
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,233,668,7
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,186,43,32
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,128,17,33
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,119,12,13
@@ -13,20 +13,20 @@ lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for i
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,59,10,9
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,44,5,9
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,41,18,12
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,41,19,12
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,35,3,4
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,32,23,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,33,23,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,27,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,25,5,6
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,4,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,15,0,1
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,14,1,1
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,1
+quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,15,0,2
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,10
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,13,2,3
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,13,0,4
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,7,23
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,12,7,23
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,11,5,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,11,8,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,10,2,1
@@ -35,8 +35,8 @@ fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted vers
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,7,2,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,4,2,0
+quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,3,0,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placholder images,3,0,0
-quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,2,0,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,1,0

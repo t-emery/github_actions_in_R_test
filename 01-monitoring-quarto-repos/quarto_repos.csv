@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3248,273,1085
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3250,273,1088
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,274,9,4
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,239,19,156
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,233,671,6
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,233,672,6
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,186,43,32
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,128,18,33
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,129,18,33
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,119,12,13
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,119,5,28
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,11,0
@@ -18,7 +18,7 @@ typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typs
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,33,23,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,27,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,25,5,6
-jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,4,3
+jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,1
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,15,0,2

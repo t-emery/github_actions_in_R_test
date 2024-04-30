@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3316,275,1121
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,277,9,4
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,243,19,165
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,236,683,12
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,191,43,31
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,131,19,36
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3317,275,1125
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,278,9,4
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,244,19,165
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,237,685,12
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,192,43,31
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,132,18,36
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,124,5,30
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,119,12,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,11,0
@@ -17,11 +17,11 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,38,3,4
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,33,23,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,27,5,1
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,25,5,6
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,25,5,7
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,4
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,0,2
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,1
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,2
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,14,2,3
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,14,5,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,10

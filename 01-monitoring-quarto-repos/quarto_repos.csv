@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3330,274,1131
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3331,274,1132
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,280,9,4
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,244,19,169
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,239,684,11
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,239,686,12
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,193,43,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,133,18,36
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,124,6,32
@@ -13,8 +13,8 @@ lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for i
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,61,10,9
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,44,5,9
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,43,18,12
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,38,3,4
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,43,17,12
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,38,3,5
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,34,24,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,27,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,25,5,7

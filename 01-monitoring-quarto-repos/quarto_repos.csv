@@ -1,18 +1,18 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3343,276,1126
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3346,278,1126
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,281,9,4
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,250,19,169
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,243,688,10
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,252,19,172
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,245,688,10
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,193,43,32
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,133,18,37
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,127,6,33
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,133,18,38
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,126,6,33
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,119,11,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,11,0
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,91,11,9
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,74,4,7
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,61,10,9
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
-include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,45,5,9
+include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,46,5,9
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,43,17,12
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,39,3,6
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,34,24,0

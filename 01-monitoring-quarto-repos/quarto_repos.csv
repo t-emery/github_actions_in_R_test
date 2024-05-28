@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3417,283,1148
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,293,10,5
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,263,19,178
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,246,699,15
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3422,283,1152
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,297,10,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,264,19,177
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,246,700,13
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,194,43,32
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,137,18,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,130,6,30
@@ -38,7 +38,7 @@ agu,https://github.com/quarto-journals/agu,Quarto template for the American Geop
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,4,2,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,3,0,0
-holder,https://github.com/quarto-ext/holder,Quarto extension to create placholder images,3,0,0
+holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,3,0,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
@@ -55,5 +55,5 @@ external-d3-d3-require,https://github.com/quarto-dev/external-d3-d3-require,"A m
 external-observablehq-parser,https://github.com/quarto-dev/external-observablehq-parser,The Observable parser.,0,0,0
 vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syntax-highlight,Markdown syntax support for the Mermaid charting language,0,0,0
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
-.github,https://github.com/quarto-ext/.github,Organization profile README source,0,1,1
+.github,https://github.com/quarto-ext/.github,Organization profile README source,0,1,0
 .github,https://github.com/quarto-journals/.github,NA,0,1,1

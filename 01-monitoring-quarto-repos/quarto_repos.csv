@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3422,283,1152
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,297,10,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,264,19,177
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,246,700,13
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,194,43,32
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3425,284,1152
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,298,10,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,264,19,178
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,247,700,13
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,194,43,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,137,18,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,130,6,30
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,121,11,13
@@ -25,7 +25,7 @@ jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto Jupyter
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,15,0,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,14,2,3
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,14,6,0
-plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,10
+plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,11
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,7,23
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,12,2,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5

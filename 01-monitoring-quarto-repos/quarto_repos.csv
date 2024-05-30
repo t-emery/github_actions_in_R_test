@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3425,284,1152
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,298,10,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,264,19,178
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3435,284,1155
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,299,10,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,265,19,178
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,247,700,13
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,194,43,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,137,18,39
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,130,6,30
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,131,6,30
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,121,11,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,11,0
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,92,11,9
@@ -55,5 +55,5 @@ external-d3-d3-require,https://github.com/quarto-dev/external-d3-d3-require,"A m
 external-observablehq-parser,https://github.com/quarto-dev/external-observablehq-parser,The Observable parser.,0,0,0
 vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syntax-highlight,Markdown syntax support for the Mermaid charting language,0,0,0
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
-.github,https://github.com/quarto-ext/.github,Organization profile README source,0,1,0
+.github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
 .github,https://github.com/quarto-journals/.github,NA,0,1,1

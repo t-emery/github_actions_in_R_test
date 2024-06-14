@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3474,285,1153
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,305,10,8
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3478,284,1158
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,306,10,7
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,274,19,182
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,249,713,15
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,251,714,14
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,196,46,32
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,139,18,43
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,135,7,31
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,136,7,31
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,123,12,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,11,0
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,93,11,9
@@ -22,9 +22,9 @@ jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of St
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,3,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,4
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,15,6,0
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,15,0,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,14,2,3
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,14,6,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,14,2,11
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,8,23
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,12,2,1

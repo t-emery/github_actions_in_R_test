@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3489,288,1172
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3493,288,1168
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,307,10,7
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,275,19,181
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,251,714,15
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,251,715,18
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,196,46,32
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,139,18,43
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,137,7,30
@@ -21,7 +21,7 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,4
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,3,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,16,6,0
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,16,7,0
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,4
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,15,0,4
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,15,3,11
@@ -30,9 +30,9 @@ acm,https://github.com/quarto-journals/acm,Quarto template for the Association o
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,12,2,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,9,4,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,9,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,8,4,0
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,4,1,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,0,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1

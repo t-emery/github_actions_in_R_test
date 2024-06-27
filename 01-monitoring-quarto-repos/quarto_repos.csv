@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3514,290,1171
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3520,291,1177
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,310,10,7
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,280,19,183
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,253,720,21
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,254,721,22
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,196,47,32
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,140,19,43
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,138,7,30
@@ -26,7 +26,7 @@ manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rs
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,15,1,4
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,15,3,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,14,2,3
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,8,23
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,8,24
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,12,1,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1

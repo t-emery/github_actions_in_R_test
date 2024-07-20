@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3593,294,1201
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3595,294,1206
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,321,11,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,290,20,189
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,263,735,23
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,290,20,190
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,263,735,22
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,204,47,33
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,141,7,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,140,21,49
@@ -24,7 +24,7 @@ jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto Jupyter
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,3,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,16,0,4
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,16,8,0
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,16,9,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,16,3,11
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,13,2,1
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,13,8,24

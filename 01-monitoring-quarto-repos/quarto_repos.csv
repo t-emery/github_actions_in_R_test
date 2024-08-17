@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3667,298,1267
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3670,295,1270
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,331,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,296,23,204
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,267,749,24
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,213,50,37
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,297,23,203
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,269,750,23
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,214,50,37
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,142,7,34
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,139,21,51
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,126,13,13
@@ -16,7 +16,7 @@ typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typs
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,51,5,9
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,48,19,13
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,39,23,2
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,28,5,7
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,29,5,7
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,28,5,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,17,2,3

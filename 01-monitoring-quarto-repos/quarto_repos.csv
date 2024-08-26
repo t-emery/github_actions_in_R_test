@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3692,297,1289
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3695,300,1289
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,335,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,300,24,205
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,272,755,26
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,216,50,37
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,301,24,206
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,273,757,26
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,215,50,35
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,142,22,54
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,141,8,34
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,126,13,13
@@ -30,8 +30,8 @@ acm,https://github.com/quarto-journals/acm,Quarto template for the Association o
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,13,2,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,10,4,0
-fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,9,1,0
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,11,4,0
+fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,10,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,4,0,0
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,4,1,0

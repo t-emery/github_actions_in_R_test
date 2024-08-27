@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3695,300,1289
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3698,300,1291
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,335,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,301,24,206
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,273,757,26
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,302,24,206
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,274,759,26
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,215,50,35
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,142,22,54
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,142,22,55
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,141,8,34
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,126,13,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,11,0

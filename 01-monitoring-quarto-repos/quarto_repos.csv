@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3708,305,1279
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3713,305,1284
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,337,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,303,25,206
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,274,762,21
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,216,50,37
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,304,25,206
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,274,764,21
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,215,50,37
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,144,22,55
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,141,8,34
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,128,13,13
@@ -39,7 +39,7 @@ holder,https://github.com/quarto-ext/holder,Quarto extension to create placehold
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,0,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,4,2,0
-quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,3
+quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,4
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,2,1,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0

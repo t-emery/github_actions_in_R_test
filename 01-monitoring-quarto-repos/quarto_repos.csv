@@ -1,6 +1,6 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3713,305,1284
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,337,12,8
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3718,305,1285
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,337,12,9
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,304,25,206
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,274,764,21
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,215,50,37
@@ -46,7 +46,7 @@ vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-gram
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
 quarto_echo_kernel,https://github.com/quarto-dev/quarto_echo_kernel,A simple example kernel for Jupyter (showcasing some quarto-specific features),0,1,0
-Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,4
+Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,5
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
 external-observablehq-runtime,https://github.com/quarto-dev/external-observablehq-runtime,A fork of the Observable dataflow runtime.,0,0,0

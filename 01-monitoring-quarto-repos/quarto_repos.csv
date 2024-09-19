@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3763,309,1330
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3765,308,1328
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,345,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,307,26,210
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,308,26,211
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,279,780,25
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,218,50,37
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,144,22,56
@@ -21,8 +21,8 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,4
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,19,2,5
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,10,0
+plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,18,3,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,17,2,3
-plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,17,3,11
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,4,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,16,0,5
@@ -45,6 +45,7 @@ gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructu
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
+deno-dom-apple-silicon,https://github.com/quarto-dev/deno-dom-apple-silicon,Browser DOM & HTML parser in Deno,0,0,0
 quarto_echo_kernel,https://github.com/quarto-dev/quarto_echo_kernel,A simple example kernel for Jupyter (showcasing some quarto-specific features),0,1,0
 Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,4
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0

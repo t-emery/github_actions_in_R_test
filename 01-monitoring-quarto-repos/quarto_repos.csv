@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3766,309,1331
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3769,309,1321
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,345,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,308,26,211
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,309,26,213
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,279,780,25
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,219,51,37
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,144,22,56
@@ -18,7 +18,7 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,41,23,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,31,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,29,5,1
-jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,21,5,4
+jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,4
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,19,2,5
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,10,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,18,3,11

@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3820,309,1333
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3824,311,1334
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,347,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,318,26,214
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,285,788,24
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,223,51,38
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,319,27,216
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,285,790,25
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,223,52,38
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,144,22,60
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,144,8,34
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,131,14,13
@@ -27,7 +27,7 @@ quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to qu
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,16,0,5
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,16,9,24
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,13,2,1
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,13,3,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,11,5,0

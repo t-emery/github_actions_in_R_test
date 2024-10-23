@@ -1,16 +1,16 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3883,318,1354
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,350,12,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,332,29,221
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,289,803,26
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,225,52,38
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3885,318,1349
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,352,12,8
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,332,29,222
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,289,804,29
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,226,52,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,146,8,33
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,144,22,60
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,131,14,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,11,0
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,107,10,9
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,75,4,7
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,66,14,10
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,66,15,10
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,59,6,7
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,56,11,4
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,53,6,10
@@ -22,7 +22,7 @@ jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of St
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,20,2,5
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,19,2,4
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,19,3,11
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,11,0
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,12,0
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,16,5,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,16,0,5
@@ -30,7 +30,7 @@ acm,https://github.com/quarto-journals/acm,Quarto template for the Association o
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,13,3,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,12,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,8,1
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,11,5,0
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,11,6,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,10,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,4,0,0

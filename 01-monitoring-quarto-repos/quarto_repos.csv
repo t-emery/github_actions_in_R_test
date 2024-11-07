@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3918,322,1353
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3921,323,1353
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,353,12,9
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,339,29,229
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,292,816,29
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,339,29,230
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,292,817,27
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,227,53,38
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,146,8,34
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,145,23,60
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,146,8,35
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,145,24,60
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,131,14,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,11,0
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,107,10,8
@@ -22,7 +22,7 @@ jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of St
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,20,3,6
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,19,2,4
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,19,3,11
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,12,0
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,12,1
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,17,5,5
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,17,9,24
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6

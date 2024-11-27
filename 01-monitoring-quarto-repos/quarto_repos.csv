@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3974,328,1380
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,3978,328,1382
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,357,13,9
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,343,30,234
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,296,829,22
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,343,30,232
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,296,833,23
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,229,53,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,151,8,33
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,145,24,61
@@ -18,7 +18,7 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,46,26,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,32,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,31,5,1
-jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,4
+jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,5
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,20,3,6
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,20,3,11

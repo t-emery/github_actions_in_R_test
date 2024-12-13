@@ -1,5 +1,5 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4016,330,1406
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4018,330,1398
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,363,14,11
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,346,30,236
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,297,848,24
@@ -8,7 +8,7 @@ shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shin
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,61
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,134,14,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,110,11,11
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,111,12,11
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,76,4,7
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,67,17,13
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,65,7,8
@@ -42,7 +42,7 @@ biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quart
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,3,1,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,4
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,2,1,3
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,2,1,12
 quarto_echo_kernel,https://github.com/quarto-dev/quarto_echo_kernel,A simple example kernel for Jupyter (showcasing some quarto-specific features),1,2,1
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0

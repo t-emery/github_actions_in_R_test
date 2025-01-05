@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4053,331,1425
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4056,331,1429
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,372,14,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,350,30,242
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,302,854,22
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,351,30,242
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,302,855,22
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,234,55,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,151,8,33
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,25,62
@@ -14,7 +14,7 @@ article-format-template,https://github.com/quarto-journals/article-format-templa
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,65,8,8
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,57,11,4
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,56,6,10
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,55,21,19
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,56,21,19
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,46,26,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,33,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,33,5,1

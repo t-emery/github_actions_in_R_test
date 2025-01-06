@@ -1,5 +1,5 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4056,331,1429
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4065,331,1430
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,372,14,6
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,351,30,242
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,302,855,22
@@ -23,8 +23,8 @@ quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,2,4
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,20,5,1
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,20,3,5
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,20,3,11
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,19,12,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,18,5,5
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,12,2
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,18,10,24
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,16,0,5

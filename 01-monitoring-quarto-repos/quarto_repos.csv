@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4094,331,1438
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4097,331,1441
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,376,14,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,354,30,245
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,302,857,26
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,354,31,245
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,303,855,21
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,234,55,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,151,8,33
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,26,62
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,26,61
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,134,14,13
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,116,12,11
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,117,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,76,4,7
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,67,8,8
@@ -33,7 +33,7 @@ manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vsc
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,9,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,11,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,7,1,6
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,6,1,5
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,5,1,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,4,1,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0

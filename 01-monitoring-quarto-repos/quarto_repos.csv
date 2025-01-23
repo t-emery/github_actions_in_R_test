@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4108,334,1456
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4111,334,1462
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,377,14,6
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,355,31,254
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,304,864,26
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,304,865,25
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,235,56,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,151,8,33
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,26,61
@@ -26,14 +26,14 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,19,12,2
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,19,10,24
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,18,5,5
-attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,17,0,5
+attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,13,1,5
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,12,6,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,12,9,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,11,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,6,1,5
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,6,1,4
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,5,1,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,4,1,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0

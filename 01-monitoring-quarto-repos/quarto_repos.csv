@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4177,335,1489
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4179,335,1492
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,387,15,7
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,366,30,266
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,309,868,27
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,238,57,38
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,367,30,267
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,309,867,27
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,240,57,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,152,8,33
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,25,61
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,25,62
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,136,14,13
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,118,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
@@ -20,11 +20,11 @@ latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extensi
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,33,5,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,5
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,21,6,1
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,21,3,6
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,21,3,7
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,2,4
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,10,24
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,20,3,11
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,19,5,5
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,19,10,24
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,13,2
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
@@ -36,10 +36,10 @@ bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortco
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,5,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,5,1,2
+biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,5,2,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,1,1
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
-biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,4,2,0
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,3,1,5
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,3,1,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,1,5

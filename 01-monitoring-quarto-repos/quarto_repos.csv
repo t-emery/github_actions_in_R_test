@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4186,335,1495
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,389,15,9
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,369,30,267
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4189,335,1497
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,389,15,8
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,369,30,268
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,310,866,27
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,241,57,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,152,8,33
@@ -25,7 +25,7 @@ quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,2,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,10,24
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,20,3,11
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,19,5,5
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,13,2
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,18,13,3
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,13,1,5

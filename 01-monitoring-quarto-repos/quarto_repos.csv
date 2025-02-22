@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4208,339,1499
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4213,339,1500
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,390,16,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,372,30,270
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,311,866,27
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,372,30,268
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,312,866,27
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,241,58,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,153,8,33
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,64
@@ -10,15 +10,15 @@ quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,118,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,76,4,7
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,70,8,8
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,70,17,14
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,68,8,8
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,59,6,10
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,58,23,20
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,57,11,4
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,48,27,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,33,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,33,5,1
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,22,6,1
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,23,6,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,5
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,21,3,7
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,2,4
@@ -34,8 +34,8 @@ manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vsc
 bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,11,1,4
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,11,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,5,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,5,1,2
+example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,5,1,0
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,5,2,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,1,1

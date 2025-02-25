@@ -1,19 +1,19 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4219,340,1503
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4221,341,1499
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,393,16,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,373,30,269
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,374,30,269
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,312,869,27
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,241,58,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,153,8,33
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,64
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,63
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,136,14,14
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,118,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,76,4,7
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,71,8,8
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,73,8,8
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,70,17,14
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,59,6,10
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,58,23,20
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,58,23,19
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,57,11,4
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,48,27,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,33,5,8

@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4233,343,1507
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4235,343,1505
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,395,16,8
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,374,30,270
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,312,870,29
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,312,873,28
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,241,58,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,154,8,35
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,63
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,64
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,137,14,14
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,118,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
@@ -48,6 +48,7 @@ vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-gram
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
 mitex,https://github.com/quarto-ext/mitex,Using mitex for Typst equations in Quarto,1,0,0
+dev-notes,https://github.com/quarto-dev/dev-notes,Let's try a dev blog,0,0,0
 deno-dom-apple-silicon,https://github.com/quarto-dev/deno-dom-apple-silicon,Browser DOM & HTML parser in Deno,0,0,0
 Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,4
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0

@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4247,343,1508
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,396,16,8
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,374,30,272
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,314,875,28
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4253,344,1503
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,397,16,8
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,375,31,269
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,314,878,29
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,242,58,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,153,8,34
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,147,24,63
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,137,14,14
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,119,12,11
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,120,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,77,4,7
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,73,9,9
@@ -20,7 +20,7 @@ latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extensi
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,33,5,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,23,6,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,22,5,5
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,21,3,7
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,21,3,8
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,2,4
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,20,6,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,10,24

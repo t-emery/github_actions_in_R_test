@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4326,349,1514
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,411,16,9
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,390,35,273
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,319,892,34
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4327,349,1512
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,412,16,9
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,390,35,274
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,319,892,33
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,243,58,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,153,9,34
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,146,24,66
@@ -40,7 +40,7 @@ biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quart
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,4,1,5
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,1,1
-acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
+acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,3,1
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,3,2,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,1,5
 quarto_echo_kernel,https://github.com/quarto-dev/quarto_echo_kernel,A simple example kernel for Jupyter (showcasing some quarto-specific features),1,2,1

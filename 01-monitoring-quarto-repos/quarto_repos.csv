@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4465,352,1514
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,430,17,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,410,36,282
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,323,918,34
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,246,59,38
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4469,352,1515
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,431,17,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,411,36,281
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,323,918,35
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,246,59,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,156,9,36
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,146,26,60
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,146,26,62
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,140,15,14
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,123,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
@@ -21,7 +21,7 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,29,7,1
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,25,5,9
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,23,5,6
-quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,22,7,4
+quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,22,7,5
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,21,13,3
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,21,3,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4

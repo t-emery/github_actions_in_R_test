@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4498,350,1525
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,436,17,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,415,36,285
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4501,350,1523
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,437,17,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,415,36,284
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,326,924,36
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,248,59,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,156,9,37
@@ -18,10 +18,10 @@ quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,56
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,51,28,2
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,34,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,34,5,1
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,30,8,1
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,30,8,2
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,25,5,9
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,23,5,6
-quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,22,7,4
+quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,22,7,5
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,21,13,3
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,21,3,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4

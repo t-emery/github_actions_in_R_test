@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4503,350,1524
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4503,350,1528
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,437,17,6
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,415,36,285
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,326,924,36
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,327,925,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,248,59,38
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,156,9,37
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,148,26,63
@@ -22,8 +22,8 @@ quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of se
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,25,5,10
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,23,5,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,22,7,5
+plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,22,4,11
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,21,13,3
-plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,21,3,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,9,25
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5

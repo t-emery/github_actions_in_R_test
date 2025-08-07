@@ -1,17 +1,17 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4723,362,1593
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4728,362,1593
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,454,18,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,443,43,321
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,343,943,39
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,443,43,320
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,343,944,39
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,254,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,160,10,39
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,158,27,36
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,144,16,14
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,27,36
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,145,16,14
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,129,11,12
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,82,5,7
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,81,15,12
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,80,18,13
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,81,18,13
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,69,24,21
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,64,7,10
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,56,10,4
@@ -41,15 +41,16 @@ biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quart
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,4,1,5
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,4,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,4,1,0
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,3,0,7
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,3,1,5
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,3,2,0
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,2,0,0
 quarto_echo_kernel,https://github.com/quarto-dev/quarto_echo_kernel,A simple example kernel for Jupyter (showcasing some quarto-specific features),2,2,1
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,1,1,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
 mitex,https://github.com/quarto-ext/mitex,Using mitex for Typst equations in Quarto,1,0,0
+quarto-markdown-test-corpus,https://github.com/quarto-dev/quarto-markdown-test-corpus,A repository of test documents using the Quarto Markdown format,0,0,0
 dev-notes,https://github.com/quarto-dev/dev-notes,Let's try a dev blog,0,0,0
 deno-dom-apple-silicon,https://github.com/quarto-dev/deno-dom-apple-silicon,Browser DOM & HTML parser in Deno,0,0,0
 Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,4

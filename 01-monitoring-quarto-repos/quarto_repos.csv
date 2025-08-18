@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4760,365,1605
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4766,366,1608
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,453,18,6
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,447,42,327
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,345,947,46
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,345,948,46
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,254,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,160,10,38
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,26,36
@@ -16,8 +16,8 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,64,7,10
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,56,10,4
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,51,28,2
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,36,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,35,5,1
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,35,5,8
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,32,8,2
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,25,5,10
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,4,11

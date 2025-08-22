@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4782,367,1595
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4788,367,1591
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,454,18,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,450,42,326
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,346,949,43
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,450,42,324
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,347,949,43
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,255,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,161,10,38
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,26,38
@@ -33,8 +33,8 @@ manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vsc
 bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,14,2,4
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,14,9,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,13,1,0
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,8,1,11
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,7,1,11
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,7,1,3
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,5,1,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,5,3,1

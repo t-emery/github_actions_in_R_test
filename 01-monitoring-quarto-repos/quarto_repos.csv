@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4914,382,1658
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,473,43,351
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4917,382,1660
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,475,43,351
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,471,20,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,361,961,42
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,259,62,40
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,361,961,43
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,260,62,40
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,163,10,39
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,26,39
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,147,17,14
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,135,11,10
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,86,17,12
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,87,17,12
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,83,5,7
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,83,19,13
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,71,24,21
@@ -18,7 +18,7 @@ quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,58
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,52,29,2
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,37,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,36,5,8
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,34,9,2
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,34,10,3
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,26,6,12
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,24,6,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,23,7,7
@@ -27,9 +27,9 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,9,27
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,16,1,22
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,1,7
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,16,6,0
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,15,1,19
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,15,1,5
 bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,15,2,4
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,9,1

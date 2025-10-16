@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4932,383,1668
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,477,43,352
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4933,383,1667
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,478,43,351
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,471,20,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,362,964,44
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,363,964,42
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,261,62,40
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,163,10,39
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,26,39
@@ -27,7 +27,7 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,9,27
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,17,1,14
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,17,1,18
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,1,7
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,16,6,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,15,1,5

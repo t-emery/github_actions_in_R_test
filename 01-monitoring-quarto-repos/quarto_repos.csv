@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4936,383,1670
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4938,383,1670
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,478,43,351
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,471,20,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,363,963,42
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,261,62,40
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,163,10,39
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,261,61,40
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,163,11,39
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,26,39
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,147,17,15
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,135,11,10
@@ -26,12 +26,12 @@ manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rs
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,5,11
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,20,9,27
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,19,1,20
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,18,0,5
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,17,1,21
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,17,2,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,1,7
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,16,6,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,15,1,5
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,15,2,4
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,9,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,13,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,8,1,2

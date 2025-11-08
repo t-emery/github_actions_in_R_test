@@ -1,5 +1,5 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4989,387,1692
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,4991,388,1692
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,483,44,357
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,474,21,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,365,974,41
@@ -13,7 +13,7 @@ typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typs
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,84,19,13
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,83,5,7
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,75,25,20
-include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,70,9,10
+include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,71,9,10
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,58,9,4
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,52,29,2
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,37,5,1

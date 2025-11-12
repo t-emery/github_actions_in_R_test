@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5005,388,1696
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5005,388,1702
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,485,45,357
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,476,21,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,366,974,41
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,365,975,41
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,261,62,40
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,165,11,40
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,26,38
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,147,18,15
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,136,11,10
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,114,11,0
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,90,18,12
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,90,17,11
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,84,19,13
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,83,5,7
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,75,25,20
@@ -20,11 +20,11 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,36,5,8
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,34,10,3
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,26,6,12
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,16,3
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,24,7,8
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,24,16,3
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,24,6,6
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,5,11
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,22,2,22
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,22,2,28
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,21,10,27
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,2,4
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,19,0,5

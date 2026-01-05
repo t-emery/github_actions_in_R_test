@@ -1,12 +1,12 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5149,394,1737
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5152,393,1738
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,506,48,363
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,484,21,8
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,373,994,41
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,267,62,40
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,169,11,41
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,26,38
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,148,18,15
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,149,18,15
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,138,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,92,18,11
@@ -19,7 +19,7 @@ quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,52,29,2
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,37,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,36,5,8
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,34,10,3
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,28,2,29
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,29,2,29
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,27,6,12
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,16,3
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,24,7,7

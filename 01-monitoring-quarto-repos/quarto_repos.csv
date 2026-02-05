@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5251,404,1768
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,526,50,357
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5254,404,1771
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,529,50,357
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,489,21,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,377,999,38
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,269,60,39
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,377,998,38
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,270,60,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,170,11,41
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,27,39
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,150,18,15
@@ -28,13 +28,13 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,22,11,27
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,3,5
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,20,0,5
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,18,2,4
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,19,2,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,17,1,7
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,17,6,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,9,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,14,1,0
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,9,0,0
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,10,0,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,9,1,2
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,6,1,1

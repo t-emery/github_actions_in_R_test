@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5314,409,1727
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,539,50,368
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5321,409,1734
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,540,50,368
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,496,22,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,378,998,44
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,379,999,40
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,271,60,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,171,11,42
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,28,39
@@ -16,15 +16,15 @@ lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for i
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,71,10,11
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,61,9,1
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,53,28,2
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,43,1,6
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,44,1,7
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,37,9,3
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,37,5,8
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,37,5,1
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,36,9,3
 quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,33,2,30
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,27,6,12
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,18,3
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,24,7,7
-jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,23,6,6
+jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,24,6,6
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,6,12
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,22,11,28
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,20,3,5

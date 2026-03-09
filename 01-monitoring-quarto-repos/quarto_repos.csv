@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5371,414,1714
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,546,53,370
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5372,414,1714
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,547,53,370
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,499,23,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,382,1000,41
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,272,61,39
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,273,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,172,11,42
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,28,39
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,152,18,15
@@ -52,7 +52,7 @@ package_control_channel,https://github.com/quarto-dev/package_control_channel,De
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
-typst-gather,https://github.com/quarto-dev/typst-gather,tool for caching all typst dependencies @preview and @local for offline use,0,0,0
+typst-gather,https://github.com/quarto-dev/typst-gather,tool for caching all typst dependencies `@preview` and `@local` for offline use,0,0,0
 dev-notes,https://github.com/quarto-dev/dev-notes,Let's try a dev blog,0,0,0
 samod,https://github.com/quarto-dev/samod,NA,0,0,0
 .github,https://github.com/quarto-dev/.github,NA,0,0,0

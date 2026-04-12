@@ -1,17 +1,17 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5493,426,1764
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,569,54,374
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,507,23,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,386,1004,34
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5495,428,1764
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,569,54,375
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,506,23,6
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,387,1004,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,277,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,172,11,42
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,29,40
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,152,18,15
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,143,12,11
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,118,4,28
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,119,4,28
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,96,19,4
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,88,22,13
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,89,22,13
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,88,27,22
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,84,5,7
 include-code-files,https://github.com/quarto-ext/include-code-files,Quarto extension to include code from source files.,72,10,11

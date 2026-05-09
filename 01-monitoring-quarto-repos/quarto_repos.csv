@@ -1,16 +1,16 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5607,434,1798
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,587,56,374
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,512,21,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,392,1005,37
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5610,434,1798
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,587,56,375
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,512,22,6
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,392,1004,37
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,278,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,172,12,42
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,162,9,43
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,162,9,41
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,29,40
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,154,18,16
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,155,18,16
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,147,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,11,0
-typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,99,19,4
+typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,100,19,4
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,91,28,22
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,88,22,13
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,84,5,7
@@ -35,7 +35,7 @@ quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quart
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,8,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,14,1,0
-quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,9,1,2
+quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,10,1,2
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,7,1,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,6,1,0

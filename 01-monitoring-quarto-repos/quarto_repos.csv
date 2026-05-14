@@ -1,11 +1,11 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5625,434,1798
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,590,56,375
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5626,434,1801
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,589,56,377
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,512,22,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,391,1009,39
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,278,61,39
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,391,1009,38
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,279,61,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,172,12,42
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,170,9,46
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,171,9,46
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,29,40
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,155,18,16
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,148,12,11
@@ -25,7 +25,7 @@ jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto Jupyter
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,25,8,9
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,18,2
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,24,6,6
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,11,28
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,12,28
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,7,12
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,22,0,5
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,21,3,5

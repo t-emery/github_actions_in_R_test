@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5750,440,1813
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,603,59,397
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5752,441,1816
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,603,59,396
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,523,22,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,392,1011,35
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,280,62,40
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,200,11,50
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,393,1011,34
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,280,62,39
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,203,12,51
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,173,12,42
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,41
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,155,18,16
@@ -19,11 +19,11 @@ quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,61
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,54,27,2
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,41,9,3
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,39,6,1
+quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,37,2,29
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,37,5,8
-quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,36,2,29
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,30,6,12
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,25,8,9
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,18,2
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,19,2
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,25,6,6
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,12,28
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,23,7,12

@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5761,441,1822
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,604,60,389
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5765,441,1822
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,604,60,390
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,523,22,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,393,1014,36
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,394,1014,36
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,280,62,39
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,204,14,47
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,207,14,44
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,173,12,42
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,41
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,29,41
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,155,18,16
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,148,12,11
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,113,12,0
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,147,12,11
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,12,0
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,103,19,4
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,94,29,23
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,88,22,13

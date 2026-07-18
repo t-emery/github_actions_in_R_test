@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5841,448,1837
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,618,60,381
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5846,448,1836
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,620,61,381
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,528,22,6
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,397,1017,36
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,397,1017,37
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,283,62,39
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,223,14,42
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,174,12,44
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,223,14,41
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,175,12,44
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,41
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,156,18,16
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,146,12,11
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,147,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,12,0
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,105,19,4
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,98,30,23

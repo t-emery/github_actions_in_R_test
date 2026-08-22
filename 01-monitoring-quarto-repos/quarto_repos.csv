@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5952,455,1869
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,5954,455,1873
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,638,61,387
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,530,21,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,400,1022,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,285,63,39
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,239,14,49
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,241,14,45
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,175,11,44
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,41
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,156,18,16
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,155,18,16
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,148,12,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,12,0
 typst-templates,https://github.com/quarto-ext/typst-templates,Repository of Typst templates for Quarto,109,19,4
@@ -27,9 +27,9 @@ manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rs
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,25,6,6
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,24,7,12
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,13,29
-quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,22,3,5
+quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,22,4,5
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,22,7,0
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,22,0,5
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,21,7,0
 bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,21,2,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,17,1,7
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5

@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6007,458,1879
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6009,458,1880
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,645,62,405
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,531,21,5
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,530,21,5
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,405,1017,33
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,288,64,39
 q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,255,17,45
@@ -28,9 +28,9 @@ jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of St
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,24,7,12
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,13,29
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,22,4,5
+bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,22,2,5
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,22,7,0
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,22,0,5
-bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,21,2,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,17,1,7
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,15,1,0

@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6063,464,1891
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6066,464,1896
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,651,64,403
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,533,21,5
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,407,1019,37
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,289,65,39
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,268,17,54
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,534,21,6
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,407,1018,37
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,290,65,39
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,270,18,56
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,176,11,45
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,160,29,42
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,156,19,16
@@ -22,8 +22,8 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,38,6,8
 quarto-markdown,https://github.com/quarto-dev/quarto-markdown,Standalone front-end parser for Quarto Markdown. NOT READY FOR PRODUCTION USE,36,2,29
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,30,6,14
+manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,26,20,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,25,8,9
-manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,25,20,2
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,25,6,6
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,24,7,12
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,23,13,29
@@ -33,8 +33,8 @@ manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vsc
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,22,0,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,17,1,7
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5
+jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,16,8,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,15,1,0
-jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,8,1
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,10,1,2
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,9,2,2
 orange-book,https://github.com/quarto-ext/orange-book,quarto extension for typst orange book,7,1,3

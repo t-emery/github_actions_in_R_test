@@ -1,6 +1,6 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6120,473,1913
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,657,64,396
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6124,475,1914
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,657,64,397
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,532,21,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,407,1018,38
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,291,65,39
@@ -43,7 +43,7 @@ example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-proj
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,6,0,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,6,4,2
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,6,3,0
-gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,5,2,4
+gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,5,2,3
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,5,2,0
 mitex,https://github.com/quarto-ext/mitex,Using mitex for Typst equations in Quarto,4,1,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,3,1,5

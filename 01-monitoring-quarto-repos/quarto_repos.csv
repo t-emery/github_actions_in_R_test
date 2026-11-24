@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6205,492,1972
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6212,493,1970
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,665,69,405
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,536,21,6
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,408,1025,42
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,316,23,103
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,316,23,104
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,292,65,39
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,179,11,45
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,159,29,42
@@ -37,7 +37,7 @@ jasa,https://github.com/quarto-journals/jasa,Quarto template for the American St
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,15,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,10,1,2
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,9,2,2
-orange-book,https://github.com/quarto-ext/orange-book,quarto extension for typst orange book,8,2,3
+orange-book,https://github.com/quarto-ext/orange-book,quarto extension for typst orange book,8,3,5
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,7,1,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,6,1,0
 holder,https://github.com/quarto-ext/holder,Quarto extension to create placeholder images,6,0,0
